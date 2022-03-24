@@ -9,3 +9,10 @@ A Tensorflow implementation of Pix2pix proposed in the paper [Image-to-Image Tra
 </p>
 
 ### results generated from this implementation : 
+
+<p float="left">
+  <img src="https://github.com/IMvision12/Pix2pix-Tensorflow/blob/master/images/1.PNG" width="1000" />
+ <img src="https://github.com/IMvision12/Pix2pix-Tensorflow/blob/master/images/2.PNG" width="1000" />
+ <img src="https://github.com/IMvision12/Pix2pix-Tensorflow/blob/master/images/3.PNG" width="1000" />
+ <img src="https://github.com/IMvision12/Pix2pix-Tensorflow/blob/master/images/4.PNG" width="1000" />
+</p>
